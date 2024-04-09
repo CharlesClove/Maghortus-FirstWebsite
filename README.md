@@ -1,5 +1,4 @@
-Description:
-This is where I put my first website project.
+
 I learned how to use HTML, CSS, and JavaScript to make a cool website for buying gardening stuff online.
 
 Works on computers, tablets, and phones.
